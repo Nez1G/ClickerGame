@@ -1,0 +1,4 @@
+npm i -g vue-cli
+npm i && code . && npm run dev 
+----ou------
+code . && npm run dev
